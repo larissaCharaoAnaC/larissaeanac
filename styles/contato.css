@@ -34,3 +34,10 @@
     width: 90%;
     color: var(--azul);
 }
+
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/email.png") no-repeat;
+    padding-left: 2em;
+}
