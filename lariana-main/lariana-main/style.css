@@ -1,0 +1,36 @@
+* {
+    margin: 0 16px;
+    padding: 24px 0;
+}
+
+
+.cabecalho {
+    background-color: #DE45BC; 
+     color: white;
+     display: flex;
+     justify-content: space-around;
+     padding: 24px 0;
+     font-size: 24px;}
+
+.cabecalho-imagem {
+    width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;  
+}
+.escola-imagem{
+    width:35%;
+}
+.escola{
+    background-image: linear-gradient(#DE45BC,#3ABDF5);
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    font-family: ´poppins´,sans-serif;
+}
+.estudante-imagem{
+    width: 120px;
+}
